@@ -1,3 +1,8 @@
+---
+description: These rules provides guidance when thinking about application buildng at scale
+alwaysApply: false
+---
+
 1. **Rule of Modularity:** Write simple parts connected by clean interfaces.
 2. **Rule of Clarity:** Clarity is better than cleverness.
 3. **Rule of Composition:** Design programs to be connected to other programs.
