@@ -1,3 +1,8 @@
+---
+description: These rules provides guidance for React 19, always follow these rules when writing React 19 code
+alwaysApply: false
+---
+
 # React 19 Style Guide
 
 ## Component Patterns

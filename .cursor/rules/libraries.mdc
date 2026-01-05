@@ -1,3 +1,7 @@
+---
+description: This rule guides on
+alwaysApply: false
+---
 # Libraries Guide
 
 ## Zustand State Management

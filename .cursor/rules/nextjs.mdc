@@ -1,4 +1,9 @@
-# Next.js 16 Style Guide
+---
+description: These rules provides guidance for NextJS, always follow these rules when writing nextjs code
+alwaysApply: false
+---
+
+# Next.js Style Guide
 
 ## File Structure
 

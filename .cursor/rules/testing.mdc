@@ -1,3 +1,8 @@
+---
+description: These rules provides guidance for Unit Testing
+alwaysApply: false
+---
+
 # Testing Guide
 
 ## Unit Testing with Vitest

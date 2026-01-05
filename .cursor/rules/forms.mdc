@@ -1,3 +1,8 @@
+---
+description: This rule guides how to build forms using NextJS and React Hook Form
+alwaysApply: false
+---
+
 # Form Handling & Validation Guide
 
 ## Form Handling with React Hook Form
